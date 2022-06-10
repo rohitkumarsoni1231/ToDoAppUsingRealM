@@ -1,0 +1,6 @@
+framework module Pods_TodoAppUsingRealM {
+  umbrella header "Pods-TodoAppUsingRealM-umbrella.h"
+
+  export *
+  module * { export * }
+}
